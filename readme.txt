@@ -1,9 +1,12 @@
 #NBA 2K18 MyLeague VC Macro#
 #1.2 26th September 2017#
+#1.4 28th September 2017#
 
 You can either run the .exe or download autohotkey https://www.autohotkey.com/download/ and run the script yourself.
 
 If you wanna edit pause timings and customise it you will need autohotkey, and edit the .ahk file with your favourite text editor.
+
+Added .pmc file for pulover's macro creator
 
 Usage: 	1. Make the game windowed or windowed fullscreen
 		2. Enter mygm/myleague mode but don't enter any saves

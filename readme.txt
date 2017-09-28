@@ -8,7 +8,7 @@ If you wanna edit pause timings and customise it you will need autohotkey, and e
 
 Added .pmc file for pulover's macro creator
 
-Usage: 	1. Make the game windowed or windowed fullscreen
+Usage: 		1. Make the game windowed or windowed fullscreen
 		2. Enter mygm/myleague mode but don't enter any saves
 		3. Delete all myleague saves
 		4. Alt tab/click out of the game to lose focus
@@ -19,12 +19,12 @@ Usage: 	1. Make the game windowed or windowed fullscreen
 		8. Profit
 		9. P.S. To stop the script alt tab out of the game and press F4
 
-Notes: 	This script has no smarts, it is just a series of input sends and pauses.
+Notes: 		This script has no smarts, it is just a series of input sends and pauses.
 		That means if your pc is slow in loading, if the 2k servers go down, 
 		if the 2k servers are slow in processing your win, or if north korea decides
-		to nuke you--the bot will stop working. 
+		to nuke you--the macro will stop working. 
 			
-		If you notice there are particular times in which the bot will stop working 
+		If you notice there are particular times in which the macro will stop working 
 		(i.e. in the first game it sims to end but doesnt quit to the myleague screen)
 		then check the comments where it says the first game pauses after quitting and
 		add more miliseconds.

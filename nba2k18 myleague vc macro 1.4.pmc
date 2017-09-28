@@ -1,0 +1,1539 @@
+﻿[PMC Code v5.0.5]|F7||0|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro1
+Groups=Start:1
+1|WinActivate||1|333|WinActivate||NBA 2K18 ahk_class NBA2K18|||
+2|[Pause]||1|625|Sleep|||my career setup |0x000000|
+3|2 Down|{2 Down}|1|0|Send|||||
+4|[Pause]||1|62|Sleep|||||
+5|2 Up|{2 Up}|1|0|Send|||||
+6|[Pause]||1|3219|Sleep|||||
+7|Right Down|{Right Down}|1|0|Send|||||
+8|[Pause]||1|110|Sleep|||||
+9|Right Up|{Right Up}|1|0|Send|||||
+10|[Pause]||1|765|Sleep|||||
+11|2 Down|{2 Down}|1|0|Send|||||
+12|[Pause]||1|125|Sleep|||||
+13|2 Up|{2 Up}|1|0|Send|||||
+14|[Pause]||1|1750|Sleep|||||
+15|2 Down|{2 Down}|1|0|Send|||||
+16|[Pause]||1|78|Sleep|||||
+17|2 Up|{2 Up}|1|0|Send|||||
+18|[Pause]||1|1750|Sleep|||||
+19|2 Down|{2 Down}|1|0|Send|||||
+20|[Pause]||1|110|Sleep|||||
+21|2 Up|{2 Up}|1|0|Send|||||
+22|[Pause]||1|1109|Sleep|||||
+23|Right Down|{Right Down}|1|0|Send|||||
+24|[Pause]||1|125|Sleep|||||
+25|Right Up|{Right Up}|1|0|Send|||||
+26|[Pause]||1|250|Sleep|||||
+27|2 Down|{2 Down}|1|0|Send|||||
+28|[Pause]||1|94|Sleep|||||
+29|2 Up|{2 Up}|1|0|Send|||||
+30|[Pause]||1|609|Sleep|||||
+31|Down Down|{Down Down}|1|0|Send|||||
+32|[Pause]||1|94|Sleep|||||
+33|Down Up|{Down Up}|1|0|Send|||||
+34|[Pause]||1|250|Sleep|||||
+35|Down Down|{Down Down}|1|0|Send|||||
+36|[Pause]||1|78|Sleep|||||
+37|Down Up|{Down Up}|1|0|Send|||||
+38|[Pause]||1|297|Sleep|||||
+39|Down Down|{Down Down}|1|0|Send|||||
+40|[Pause]||1|78|Sleep|||||
+41|Down Up|{Down Up}|1|0|Send|||||
+42|[Pause]||1|234|Sleep|||||
+43|Down Down|{Down Down}|1|0|Send|||||
+44|[Pause]||1|79|Sleep|||||
+45|Down Up|{Down Up}|1|0|Send|||||
+46|[Pause]||1|234|Sleep|||||
+47|Down Down|{Down Down}|1|0|Send|||||
+48|[Pause]||1|94|Sleep|||||
+49|Down Up|{Down Up}|1|0|Send|||||
+50|[Pause]||1|234|Sleep|||||
+51|Down Down|{Down Down}|1|0|Send|||||
+52|[Pause]||1|109|Sleep|||||
+53|Down Up|{Down Up}|1|0|Send|||||
+54|[Pause]||1|219|Sleep|||||
+55|Down Down|{Down Down}|1|0|Send|||||
+56|[Pause]||1|94|Sleep|||||
+57|Down Up|{Down Up}|1|0|Send|||||
+58|[Pause]||1|203|Sleep|||||
+59|Down Down|{Down Down}|1|0|Send|||||
+60|[Pause]||1|94|Sleep|||||
+61|Down Up|{Down Up}|1|0|Send|||||
+62|[Pause]||1|234|Sleep|||||
+63|Down Down|{Down Down}|1|0|Send|||||
+64|[Pause]||1|78|Sleep|||||
+65|Down Up|{Down Up}|1|0|Send|||||
+66|[Pause]||1|219|Sleep|||||
+67|Down Down|{Down Down}|1|0|Send|||||
+68|[Pause]||1|94|Sleep|||||
+69|Down Up|{Down Up}|1|0|Send|||||
+70|[Pause]||1|219|Sleep|||||
+71|Down Down|{Down Down}|1|0|Send|||||
+72|[Pause]||1|93|Sleep|||||
+73|Down Up|{Down Up}|1|0|Send|||||
+74|[Pause]||1|219|Sleep|||||
+75|Down Down|{Down Down}|1|0|Send|||||
+76|[Pause]||1|94|Sleep|||||
+77|Down Up|{Down Up}|1|0|Send|||||
+78|[Pause]||1|219|Sleep|||||
+79|Down Down|{Down Down}|1|0|Send|||||
+80|[Pause]||1|78|Sleep|||||
+81|Down Up|{Down Up}|1|0|Send|||||
+82|[Pause]||1|234|Sleep|||||
+83|Down Down|{Down Down}|1|0|Send|||||
+84|[Pause]||1|63|Sleep|||||
+85|Down Up|{Down Up}|1|0|Send|||||
+86|[Pause]||1|250|Sleep|||||
+87|Down Down|{Down Down}|1|0|Send|||||
+88|[Pause]||1|78|Sleep|||||
+89|Down Up|{Down Up}|1|0|Send|||||
+90|[Pause]||1|312|Sleep|||||
+91|Down Down|{Down Down}|1|0|Send|||||
+92|[Pause]||1|47|Sleep|||||
+93|Down Up|{Down Up}|1|0|Send|||||
+94|[Pause]||1|266|Sleep|||||
+95|Down Down|{Down Down}|1|0|Send|||||
+96|[Pause]||1|93|Sleep|||||
+97|Down Up|{Down Up}|1|0|Send|||||
+98|[Pause]||1|204|Sleep|||||
+99|Down Down|{Down Down}|1|0|Send|||||
+100|[Pause]||1|78|Sleep|||||
+101|Down Up|{Down Up}|1|0|Send|||||
+102|[Pause]||1|250|Sleep|||||
+103|Down Down|{Down Down}|1|0|Send|||||
+104|[Pause]||1|78|Sleep|||||
+105|Down Up|{Down Up}|1|0|Send|||||
+106|[Pause]||1|265|Sleep|||||
+107|Down Down|{Down Down}|1|0|Send|||||
+108|[Pause]||1|63|Sleep|||||
+109|Down Up|{Down Up}|1|0|Send|||||
+110|[Pause]||1|672|Sleep|||||
+111|Down Down|{Down Down}|1|0|Send|||||
+112|[Pause]||1|47|Sleep|||||
+113|Down Up|{Down Up}|1|0|Send|||||
+114|[Pause]||1|250|Sleep|||||
+115|Down Down|{Down Down}|1|0|Send|||||
+116|[Pause]||1|62|Sleep|||||
+117|Down Up|{Down Up}|1|0|Send|||||
+118|[Pause]||1|219|Sleep|||||
+119|Down Down|{Down Down}|1|0|Send|||||
+120|[Pause]||1|62|Sleep|||||
+121|Down Up|{Down Up}|1|0|Send|||||
+122|[Pause]||1|235|Sleep|||||
+123|Down Down|{Down Down}|1|0|Send|||||
+124|[Pause]||1|78|Sleep|||||
+125|Down Up|{Down Up}|1|0|Send|||||
+126|[Pause]||1|312|Sleep|||||
+127|Down Down|{Down Down}|1|0|Send|||||
+128|[Pause]||1|79|Sleep|||||
+129|Down Up|{Down Up}|1|0|Send|||||
+130|[Pause]||1|812|Sleep|||||
+131|Left Down|{Left Down}|1|0|Send|||||
+132|[Pause]||1|63|Sleep|||||
+133|Left Up|{Left Up}|1|0|Send|||||
+134|[Pause]||1|781|Sleep|||||
+135|Down Down|{Down Down}|1|0|Send|||||
+136|[Pause]||1|94|Sleep|||||
+137|Down Up|{Down Up}|1|0|Send|||||
+138|[Pause]||1|203|Sleep|||||
+139|Down Down|{Down Down}|1|0|Send|||||
+140|[Pause]||1|62|Sleep|||||
+141|Down Up|{Down Up}|1|0|Send|||||
+142|[Pause]||1|219|Sleep|||||
+143|Down Down|{Down Down}|1|0|Send|||||
+144|[Pause]||1|62|Sleep|||||
+145|Down Up|{Down Up}|1|0|Send|||||
+146|[Pause]||1|204|Sleep|||||
+147|Down Down|{Down Down}|1|0|Send|||||
+148|[Pause]||1|78|Sleep|||||
+149|Down Up|{Down Up}|1|0|Send|||||
+150|[Pause]||1|234|Sleep|||||
+151|Down Down|{Down Down}|1|0|Send|||||
+152|[Pause]||1|78|Sleep|||||
+153|Down Up|{Down Up}|1|0|Send|||||
+154|[Pause]||1|235|Sleep|||||
+155|Down Down|{Down Down}|1|0|Send|||||
+156|[Pause]||1|78|Sleep|||||
+157|Down Up|{Down Up}|1|0|Send|||||
+158|[Pause]||1|250|Sleep|||||
+159|Down Down|{Down Down}|1|0|Send|||||
+160|[Pause]||1|62|Sleep|||||
+161|Down Up|{Down Up}|1|0|Send|||||
+162|[Pause]||1|235|Sleep|||||
+163|Down Down|{Down Down}|1|0|Send|||||
+164|[Pause]||1|78|Sleep|||||
+165|Down Up|{Down Up}|1|0|Send|||||
+166|[Pause]||1|234|Sleep|||||
+167|Down Down|{Down Down}|1|0|Send|||||
+168|[Pause]||1|63|Sleep|||||
+169|Down Up|{Down Up}|1|0|Send|||||
+170|[Pause]||1|265|Sleep|||||
+171|Down Down|{Down Down}|1|0|Send|||||
+172|[Pause]||1|63|Sleep|||||
+173|Down Up|{Down Up}|1|0|Send|||||
+174|[Pause]||1|234|Sleep|||||
+175|Down Down|{Down Down}|1|0|Send|||||
+176|[Pause]||1|94|Sleep|||||
+177|Down Up|{Down Up}|1|0|Send|||||
+178|[Pause]||1|203|Sleep|||||
+179|Down Down|{Down Down}|1|0|Send|||||
+180|[Pause]||1|78|Sleep|||||
+181|Down Up|{Down Up}|1|0|Send|||||
+182|[Pause]||1|250|Sleep|||||
+183|Down Down|{Down Down}|1|0|Send|||||
+184|[Pause]||1|78|Sleep|||||
+185|Down Up|{Down Up}|1|0|Send|||||
+186|[Pause]||1|610|Sleep|||||
+187|Down Down|{Down Down}|1|0|Send|||||
+188|[Pause]||1|78|Sleep|||||
+189|Down Up|{Down Up}|1|0|Send|||||
+190|[Pause]||1|875|Sleep|||||
+191|Up Down|{Up Down}|1|0|Send|||||
+192|[Pause]||1|62|Sleep|||||
+193|Up Up|{Up Up}|1|0|Send|||||
+194|[Pause]||1|688|Sleep|||||
+195|Left Down|{Left Down}|1|0|Send|||||
+196|[Pause]||1|62|Sleep|||||
+197|Left Up|{Left Up}|1|0|Send|||||
+198|[Pause]||1|1438|Sleep|||||
+199|Down Down|{Down Down}|1|0|Send|||||
+200|[Pause]||1|78|Sleep|||||
+201|Down Up|{Down Up}|1|0|Send|||||
+202|[Pause]||1|187|Sleep|||||
+203|Down Down|{Down Down}|1|0|Send|||||
+204|[Pause]||1|63|Sleep|||||
+205|Down Up|{Down Up}|1|0|Send|||||
+206|[Pause]||1|234|Sleep|||||
+207|Down Down|{Down Down}|1|0|Send|||||
+208|[Pause]||1|63|Sleep|||||
+209|Down Up|{Down Up}|1|0|Send|||||
+210|[Pause]||1|203|Sleep|||||
+211|Down Down|{Down Down}|1|0|Send|||||
+212|[Pause]||1|78|Sleep|||||
+213|Down Up|{Down Up}|1|0|Send|||||
+214|[Pause]||1|234|Sleep|||||
+215|Down Down|{Down Down}|1|0|Send|||||
+216|[Pause]||1|47|Sleep|||||
+217|Down Up|{Down Up}|1|0|Send|||||
+218|[Pause]||1|719|Sleep|||||
+219|Down Down|{Down Down}|1|0|Send|||||
+220|[Pause]||1|62|Sleep|||||
+221|Down Up|{Down Up}|1|0|Send|||||
+222|[Pause]||1|219|Sleep|||||
+223|Down Down|{Down Down}|1|0|Send|||||
+224|[Pause]||1|78|Sleep|||||
+225|Down Up|{Down Up}|1|0|Send|||||
+226|[Pause]||1|203|Sleep|||||
+227|Down Down|{Down Down}|1|0|Send|||||
+228|[Pause]||1|63|Sleep|||||
+229|Down Up|{Down Up}|1|0|Send|||||
+230|[Pause]||1|781|Sleep|||||
+231|Right Down|{Right Down}|1|0|Send|||||
+232|[Pause]||1|78|Sleep|||||
+233|Right Up|{Right Up}|1|0|Send|||||
+234|[Pause]||1|360|Sleep|||||
+235|Right Down|{Right Down}|1|0|Send|||||
+236|[Pause]||1|62|Sleep|||||
+237|Right Up|{Right Up}|1|0|Send|||||
+238|[Pause]||1|453|Sleep|||||
+239|Right Down|{Right Down}|1|0|Send|||||
+240|[Pause]||1|78|Sleep|||||
+241|Right Up|{Right Up}|1|0|Send|||||
+242|[Pause]||1|1454|Sleep|||||
+243|Enter Down|{Enter Down}|1|0|Send|||||
+244|[Pause]||1|78|Sleep|||||
+245|Enter Up|{Enter Up}|1|0|Send|||||
+246|[Pause]||1|906|Sleep|||||
+247|Left Down|{Left Down}|1|0|Send|||||
+248|[Pause]||1|62|Sleep|||||
+249|Left Up|{Left Up}|1|0|Send|||||
+250|[Pause]||1|422|Sleep|||||
+251|Left Down|{Left Down}|1|0|Send|||||
+252|[Pause]||1|63|Sleep|||||
+253|Left Up|{Left Up}|1|0|Send|||||
+254|[Pause]||1|1000|Sleep|||||
+255|2 Down|{2 Down}|1|0|Send|||||
+256|[Pause]||1|78|Sleep|||||
+257|2 Up|{2 Up}|1|0|Send|||||
+258|[Pause]||1|828|Sleep|||||
+259|Enter Down|{Enter Down}|1|0|Send||| ||
+260|[Pause]||1|78|Sleep|||||
+261|Enter Up|{Enter Up}|1|0|Send|||||
+262|[Pause]||1|1984|Sleep|||||
+263|Down Down|{Down Down}|1|0|Send|||||
+264|[Pause]||1|78|Sleep|||||
+265|Down Up|{Down Up}|1|0|Send|||||
+266|[Pause]||1|438|Sleep|||||
+267|Right Down|{Right Down}|1|0|Send|||||
+268|[Pause]||1|94|Sleep|||||
+269|Right Up|{Right Up}|1|0|Send|||||
+270|[Pause]||1|265|Sleep|||||
+271|Down Down|{Down Down}|1|0|Send|||||
+272|[Pause]||1|78|Sleep|||||
+273|Down Up|{Down Up}|1|0|Send|||||
+274|[Pause]||1|250|Sleep|||||
+275|Right Down|{Right Down}|1|0|Send|||||
+276|[Pause]||1|47|Sleep|||||
+277|Right Up|{Right Up}|1|0|Send|||||
+278|[Pause]||1|344|Sleep|||||
+279|Down Down|{Down Down}|1|0|Send|||||
+280|[Pause]||1|47|Sleep|||||
+281|Down Up|{Down Up}|1|0|Send|||||
+282|[Pause]||1|312|Sleep|||||
+283|Right Down|{Right Down}|1|0|Send|||||
+284|[Pause]||1|63|Sleep|||||
+285|Right Up|{Right Up}|1|0|Send|||||
+286|[Pause]||1|297|Sleep|||||
+287|Down Down|{Down Down}|1|0|Send|||||
+288|[Pause]||1|62|Sleep|||||
+289|Down Up|{Down Up}|1|0|Send|||||
+290|[Pause]||1|313|Sleep|||||
+291|Right Down|{Right Down}|1|0|Send|||||
+292|[Pause]||1|94|Sleep|||||
+293|Right Up|{Right Up}|1|0|Send|||||
+294|[Pause]||1|281|Sleep|||||
+295|Down Down|{Down Down}|1|0|Send|||||
+296|[Pause]||1|62|Sleep|||||
+297|Down Up|{Down Up}|1|0|Send|||||
+298|[Pause]||1|266|Sleep|||||
+299|Right Down|{Right Down}|1|0|Send|||||
+300|[Pause]||1|78|Sleep|||||
+301|Right Up|{Right Up}|1|0|Send|||||
+302|[Pause]||1|297|Sleep|||||
+303|Down Down|{Down Down}|1|0|Send|||||
+304|[Pause]||1|62|Sleep|||||
+305|Down Up|{Down Up}|1|0|Send|||||
+306|[Pause]||1|250|Sleep|||||
+307|Right Down|{Right Down}|1|0|Send|||||
+308|[Pause]||1|63|Sleep|||||
+309|Right Up|{Right Up}|1|0|Send|||||
+310|[Pause]||1|297|Sleep|||||
+311|Down Down|{Down Down}|1|0|Send|||||
+312|[Pause]||1|78|Sleep|||||
+313|Down Up|{Down Up}|1|0|Send|||||
+314|[Pause]||1|234|Sleep|||||
+315|Right Down|{Right Down}|1|0|Send|||||
+316|[Pause]||1|78|Sleep|||||
+317|Right Up|{Right Up}|1|0|Send|||||
+318|[Pause]||1|266|Sleep|||||
+319|Down Down|{Down Down}|1|0|Send|||||
+320|[Pause]||1|78|Sleep|||||
+321|Down Up|{Down Up}|1|0|Send|||||
+322|[Pause]||1|250|Sleep|||||
+323|Right Down|{Right Down}|1|0|Send|||||
+324|[Pause]||1|78|Sleep|||||
+325|Right Up|{Right Up}|1|0|Send|||||
+326|[Pause]||1|250|Sleep|||||
+327|Down Down|{Down Down}|1|0|Send|||||
+328|[Pause]||1|78|Sleep|||||
+329|Down Up|{Down Up}|1|0|Send|||||
+330|[Pause]||1|250|Sleep|||||
+331|Right Down|{Right Down}|1|0|Send|||||
+332|[Pause]||1|63|Sleep|||||
+333|Right Up|{Right Up}|1|0|Send|||||
+334|[Pause]||1|281|Sleep|||||
+335|Down Down|{Down Down}|1|0|Send|||||
+336|[Pause]||1|78|Sleep|||||
+337|Down Up|{Down Up}|1|0|Send|||||
+338|[Pause]||1|235|Sleep|||||
+339|Right Down|{Right Down}|1|0|Send|||||
+340|[Pause]||1|62|Sleep|||||
+341|Right Up|{Right Up}|1|0|Send|||||
+342|[Pause]||1|266|Sleep|||||
+343|Down Down|{Down Down}|1|0|Send|||||
+344|[Pause]||1|78|Sleep|||||
+345|Down Up|{Down Up}|1|0|Send|||||
+346|[Pause]||1|234|Sleep|||||
+347|Right Down|{Right Down}|1|0|Send|||||
+348|[Pause]||1|78|Sleep|||||
+349|Right Up|{Right Up}|1|0|Send|||||
+350|[Pause]||1|250|Sleep|||||
+351|Down Down|{Down Down}|1|0|Send|||||
+352|[Pause]||1|79|Sleep|||||
+353|Down Up|{Down Up}|1|0|Send|||||
+354|[Pause]||1|203|Sleep|||||
+355|Right Down|{Right Down}|1|0|Send|||||
+356|[Pause]||1|78|Sleep|||||
+357|Right Up|{Right Up}|1|0|Send|||||
+358|[Pause]||1|265|Sleep|||||
+359|Down Down|{Down Down}|1|0|Send|||||
+360|[Pause]||1|63|Sleep|||||
+361|Down Up|{Down Up}|1|0|Send|||||
+362|[Pause]||1|266|Sleep|||||
+363|Right Down|{Right Down}|1|0|Send|||||
+364|[Pause]||1|46|Sleep|||||
+365|Right Up|{Right Up}|1|0|Send|||||
+366|[Pause]||1|250|Sleep|||||
+367|Down Down|{Down Down}|1|0|Send|||||
+368|[Pause]||1|63|Sleep|||||
+369|Down Up|{Down Up}|1|0|Send|||||
+370|[Pause]||1|250|Sleep|||||
+371|Right Down|{Right Down}|1|0|Send|||||
+372|[Pause]||1|62|Sleep|||||
+373|Right Up|{Right Up}|1|0|Send|||||
+374|[Pause]||1|235|Sleep|||||
+375|Down Down|{Down Down}|1|0|Send|||||
+376|[Pause]||1|78|Sleep|||||
+377|Down Up|{Down Up}|1|0|Send|||||
+378|[Pause]||1|234|Sleep|||||
+379|Right Down|{Right Down}|1|0|Send|||||
+380|[Pause]||1|78|Sleep|||||
+381|Right Up|{Right Up}|1|0|Send|||||
+382|[Pause]||1|235|Sleep|||||
+383|Down Down|{Down Down}|1|0|Send|||||
+384|[Pause]||1|62|Sleep|||||
+385|Down Up|{Down Up}|1|0|Send|||||
+386|[Pause]||1|219|Sleep|||||
+387|Right Down|{Right Down}|1|0|Send|||||
+388|[Pause]||1|63|Sleep|||||
+389|Right Up|{Right Up}|1|0|Send|||||
+390|[Pause]||1|234|Sleep|||||
+391|Down Down|{Down Down}|1|0|Send|||||
+392|[Pause]||1|94|Sleep|||||
+393|Down Up|{Down Up}|1|0|Send|||||
+394|[Pause]||1|218|Sleep|||||
+395|Right Down|{Right Down}|1|0|Send|||||
+396|[Pause]||1|79|Sleep|||||
+397|Right Up|{Right Up}|1|0|Send|||||
+398|[Pause]||1|218|Sleep|||||
+399|Down Down|{Down Down}|1|0|Send|||||
+400|[Pause]||1|63|Sleep|||||
+401|Down Up|{Down Up}|1|0|Send|||||
+402|[Pause]||1|219|Sleep|||||
+403|Right Down|{Right Down}|1|0|Send|||||
+404|[Pause]||1|62|Sleep|||||
+405|Right Up|{Right Up}|1|0|Send|||||
+406|[Pause]||1|281|Sleep|||||
+407|Down Down|{Down Down}|1|0|Send|||||
+408|[Pause]||1|78|Sleep|||||
+409|Down Up|{Down Up}|1|0|Send|||||
+410|[Pause]||1|188|Sleep|||||
+411|Right Down|{Right Down}|1|0|Send|||||
+412|[Pause]||1|62|Sleep|||||
+413|Right Up|{Right Up}|1|0|Send|||||
+414|[Pause]||1|235|Sleep|||||
+415|Down Down|{Down Down}|1|0|Send|||||
+416|[Pause]||1|78|Sleep|||||
+417|Down Up|{Down Up}|1|0|Send|||||
+418|[Pause]||1|219|Sleep|||||
+419|Right Down|{Right Down}|1|0|Send|||||
+420|[Pause]||1|78|Sleep|||||
+421|Right Up|{Right Up}|1|0|Send|||||
+422|[Pause]||1|219|Sleep|||||
+423|Down Down|{Down Down}|1|0|Send|||||
+424|[Pause]||1|78|Sleep|||||
+425|Down Up|{Down Up}|1|0|Send|||||
+426|[Pause]||1|203|Sleep|||||
+427|Right Down|{Right Down}|1|0|Send|||||
+428|[Pause]||1|78|Sleep|||||
+429|Right Up|{Right Up}|1|0|Send|||||
+430|[Pause]||1|203|Sleep|||||
+431|Down Down|{Down Down}|1|0|Send|||||
+432|[Pause]||1|94|Sleep|||||
+433|Down Up|{Down Up}|1|0|Send|||||
+434|[Pause]||1|203|Sleep|||||
+435|Enter Down|{Enter Down}|1|0|Send|||||
+436|[Pause]||1|79|Sleep|||||
+437|Enter Up|{Enter Up}|1|0|Send|||||
+438|[Pause]||1|2953|Sleep|||||
+439|Enter Down|{Enter Down}|1|0|Send|||||
+440|[Pause]||1|78|Sleep|||||
+441|Enter Up|{Enter Up}|1|0|Send|||||
+442|[Pause]||1|1500|Sleep|||||
+443|2 Down|{2 Down}|1|0|Send|||||
+444|[Pause]||1|79|Sleep|||||
+445|2 Up|{2 Up}|1|0|Send|||generate rookies||
+446|WinActivate||1|333|WinActivate||NBA 2K18 ahk_class NBA2K18|||
+447|[Pause]||1|2782|Sleep|||||
+448|Escape Down|{Escape Down}|1|0|Send|||||
+449|[Pause]||1|31|Sleep|||||
+450|Escape Up|{Escape Up}|1|0|Send|||||
+451|[Pause]||1|1312|Sleep|||||
+452|Right Down|{Right Down}|1|0|Send|||||
+453|[Pause]||1|47|Sleep|||||
+454|Right Up|{Right Up}|1|0|Send|||||
+455|[Pause]||1|156|Sleep|||||
+456|Right Down|{Right Down}|1|0|Send|||||
+457|[Pause]||1|63|Sleep|||||
+458|Right Up|{Right Up}|1|0|Send|||||
+459|[Pause]||1|141|Sleep|||||
+460|Right Down|{Right Down}|1|0|Send|||||
+461|[Pause]||1|78|Sleep|||||
+462|Right Up|{Right Up}|1|0|Send|||||
+463|[Pause]||1|125|Sleep|||||
+464|Right Down|{Right Down}|1|0|Send|||||
+465|[Pause]||1|47|Sleep|||||
+466|Right Up|{Right Up}|1|0|Send|||||
+467|[Pause]||1|156|Sleep|||||
+468|Right Down|{Right Down}|1|0|Send|||||
+469|[Pause]||1|62|Sleep|||||
+470|Right Up|{Right Up}|1|0|Send|||||
+471|[Pause]||1|157|Sleep|||||
+472|Right Down|{Right Down}|1|0|Send|||||
+473|[Pause]||1|62|Sleep|||||
+474|Right Up|{Right Up}|1|0|Send|||||
+475|[Pause]||1|141|Sleep|||||
+476|Right Down|{Right Down}|1|0|Send|||||
+477|[Pause]||1|62|Sleep|||||
+478|Right Up|{Right Up}|1|0|Send|||||
+479|[Pause]||1|172|Sleep|||||
+480|Right Down|{Right Down}|1|0|Send|||||
+481|[Pause]||1|31|Sleep|||||
+482|Right Up|{Right Up}|1|0|Send|||||
+483|[Pause]||1|157|Sleep|||||
+484|Right Down|{Right Down}|1|0|Send|||||
+485|[Pause]||1|62|Sleep|||||
+486|Right Up|{Right Up}|1|0|Send|||||
+487|[Pause]||1|328|Sleep|||||
+488|Right Down|{Right Down}|1|0|Send|||||
+489|[Pause]||1|63|Sleep|||||
+490|Right Up|{Right Up}|1|0|Send|||||
+491|[Pause]||1|281|Sleep|||||
+492|Right Down|{Right Down}|1|0|Send|||||
+493|[Pause]||1|47|Sleep|||||
+494|Right Up|{Right Up}|1|0|Send|||||
+495|[Pause]||1|484|Sleep|||||
+496|Left Down|{Left Down}|1|0|Send|||||
+497|[Pause]||1|63|Sleep|||||
+498|Left Up|{Left Up}|1|0|Send|||||
+499|[Pause]||1|609|Sleep|||||
+500|2 Down|{2 Down}|1|0|Send|||||
+501|[Pause]||1|78|Sleep|||||
+502|2 Up|{2 Up}|1|0|Send|||||
+503|[Pause]||1|328|Sleep|||||
+504|2 Down|{2 Down}|1|0|Send|||||
+505|[Pause]||1|63|Sleep|||||
+506|2 Up|{2 Up}|1|0|Send|||||
+507|[Pause]||1|500|Sleep|||||
+508|Down Down|{Down Down}|1|0|Send|||||
+509|[Pause]||1|62|Sleep|||||
+510|Down Up|{Down Up}|1|0|Send|||||
+511|[Pause]||1|235|Sleep|||||
+512|Right Down|{Right Down}|1|0|Send|||||
+513|[Pause]||1|62|Sleep|||||
+514|Right Up|{Right Up}|1|0|Send|||||
+515|[Pause]||1|125|Sleep|||||
+516|Right Down|{Right Down}|1|0|Send|||||
+517|[Pause]||1|63|Sleep|||||
+518|Right Up|{Right Up}|1|0|Send|||||
+519|[Pause]||1|156|Sleep|||||
+520|Right Down|{Right Down}|1|0|Send|||||
+521|[Pause]||1|31|Sleep|||||
+522|Right Up|{Right Up}|1|0|Send|||||
+523|[Pause]||1|172|Sleep|||||
+524|Right Down|{Right Down}|1|0|Send|||||
+525|[Pause]||1|47|Sleep|||||
+526|Right Up|{Right Up}|1|0|Send|||||
+527|[Pause]||1|156|Sleep|||||
+528|Right Down|{Right Down}|1|0|Send|||||
+529|[Pause]||1|47|Sleep|||||
+530|Right Up|{Right Up}|1|0|Send|||||
+531|[Pause]||1|313|Sleep|||||
+532|Right Down|{Right Down}|1|0|Send|||||
+533|[Pause]||1|46|Sleep|||||
+534|Right Up|{Right Up}|1|0|Send|||||
+535|[Pause]||1|688|Sleep|||||
+536|Escape Down|{Escape Down}|1|0|Send|||||
+537|[Pause]||1|94|Sleep|||||
+538|Escape Up|{Escape Up}|1|0|Send|||||
+539|[Pause]||1|547|Sleep|||||
+540|Escape Down|{Escape Down}|1|0|Send|||||
+541|[Pause]||1|62|Sleep|||||
+542|Escape Up|{Escape Up}|1|0|Send|||||
+543|[Pause]||1|781|Sleep|||||
+544|Escape Down|{Escape Down}|1|0|Send|||||
+545|[Pause]||1|63|Sleep|||||
+546|Escape Up|{Escape Up}|1|0|Send|||||
+547|[Pause]||1|1547|Sleep|||||
+548|Right Down|{Right Down}|1|0|Send|||||
+549|[Pause]||1|31|Sleep|||||
+550|Right Up|{Right Up}|1|0|Send|||||
+551|[Pause]||1|203|Sleep|||||
+552|Right Down|{Right Down}|1|0|Send|||||
+553|[Pause]||1|78|Sleep|||||
+554|Right Up|{Right Up}|1|0|Send|||||
+555|[Pause]||1|156|Sleep|||||
+556|Right Down|{Right Down}|1|0|Send|||||
+557|[Pause]||1|79|Sleep|||||
+558|Right Up|{Right Up}|1|0|Send|||||
+559|[Pause]||1|156|Sleep|||||
+560|2 Down|{2 Down}|1|0|Send|||||
+561|[Pause]||1|78|Sleep|||||
+562|2 Up|{2 Up}|1|0|Send|||||
+563|[Pause]||1|812|Sleep|||||
+564|Down Down|{Down Down}|1|0|Send|||||
+565|[Pause]||1|63|Sleep|||||
+566|Down Up|{Down Up}|1|0|Send|||||
+567|[Pause]||1|797|Sleep|||||
+568|2 Down|{2 Down}|1|0|Send|||||
+569|[Pause]||1|62|Sleep|||||
+570|2 Up|{2 Up}|1|0|Send|||||
+571|[Pause]||1|8453|Sleep|||||
+572|[Pause]||1|32828|Sleep|||||
+573|Enter Down|{Enter Down}|1|0|Send|||||
+574|[Pause]||1|94|Sleep|||||
+575|Enter Up|{Enter Up}|1|0|Send|||||
+576|[Pause]||1|625|Sleep|||||
+577|Up Down|{Up Down}|1|0|Send|||||
+578|[Pause]||1|78|Sleep|||||
+579|Up Up|{Up Up}|1|0|Send|||||
+580|[Pause]||1|328|Sleep|||||
+581|Right Down|{Right Down}|1|0|Send|||||
+582|[Pause]||1|62|Sleep|||||
+583|Right Up|{Right Up}|1|0|Send|||||
+584|[Pause]||1|204|Sleep|||||
+585|Right Down|{Right Down}|1|0|Send|||||
+586|[Pause]||1|62|Sleep|||||
+587|Right Up|{Right Up}|1|0|Send|||||
+588|[Pause]||1|391|Sleep|||||
+589|2 Down|{2 Down}|1|0|Send|||||
+590|[Pause]||1|62|Sleep|||||
+591|2 Up|{2 Up}|1|0|Send|||||
+592|[Pause]||1|391|Sleep|||||
+593|Down Down|{Down Down}|1|0|Send|||||
+594|[Pause]||1|78|Sleep|||||
+595|Down Up|{Down Up}|1|0|Send|||||
+596|[Pause]||1|203|Sleep|||||
+597|2 Down|{2 Down}|1|0|Send|||||
+598|[Pause]||1|63|Sleep|||||
+599|2 Up|{2 Up}|1|0|Send|||||
+600|[Pause]||1|8000|Sleep|||||
+601|2 Down|{2 Down}|1|0|Send|||||
+602|[Pause]||1|79|Sleep|||||
+603|2 Up|{2 Up}|1|0|Send|||||
+604|[Pause]||1|12000|Sleep|||pause time after 1st game to exit||
+605|Escape Down|{Escape Down}|1|0|Send|||||
+606|[Pause]||1|62|Sleep|||||
+607|Escape Up|{Escape Up}|1|0|Send|||||
+608|[Pause]||1|969|Sleep|||||
+609|Right Down|{Right Down}|1|0|Send|||||
+610|[Pause]||1|62|Sleep|||||
+611|Right Up|{Right Up}|1|0|Send|||||
+612|[Pause]||1|157|Sleep|||||
+613|Right Down|{Right Down}|1|0|Send|||||
+614|[Pause]||1|62|Sleep|||||
+615|Right Up|{Right Up}|1|0|Send|||||
+616|[Pause]||1|156|Sleep|||||
+617|Right Down|{Right Down}|1|0|Send|||||
+618|[Pause]||1|47|Sleep|||||
+619|Right Up|{Right Up}|1|0|Send|||||
+620|[Pause]||1|141|Sleep|||||
+621|Right Down|{Right Down}|1|0|Send|||||
+622|[Pause]||1|62|Sleep|||||
+623|Right Up|{Right Up}|1|0|Send|||||
+624|[Pause]||1|141|Sleep|||||
+625|Right Down|{Right Down}|1|0|Send|||||
+626|[Pause]||1|63|Sleep|||||
+627|Right Up|{Right Up}|1|0|Send|||||
+628|[Pause]||1|140|Sleep|||||
+629|Right Down|{Right Down}|1|0|Send|||||
+630|[Pause]||1|63|Sleep|||||
+631|Right Up|{Right Up}|1|0|Send|||||
+632|[Pause]||1|172|Sleep|||||
+633|Right Down|{Right Down}|1|0|Send|||||
+634|[Pause]||1|62|Sleep|||||
+635|Right Up|{Right Up}|1|0|Send|||||
+636|[Pause]||1|172|Sleep|||||
+637|Right Down|{Right Down}|1|0|Send|||||
+638|[Pause]||1|78|Sleep|||||
+639|Right Up|{Right Up}|1|0|Send|||||
+640|[Pause]||1|328|Sleep|||||
+641|Right Down|{Right Down}|1|0|Send|||||
+642|[Pause]||1|78|Sleep|||||
+643|Right Up|{Right Up}|1|0|Send|||||
+644|[Pause]||1|328|Sleep|||||
+645|Right Down|{Right Down}|1|0|Send|||||
+646|[Pause]||1|79|Sleep|||||
+647|Right Up|{Right Up}|1|0|Send|||||
+648|[Pause]||1|578|Sleep|||||
+649|2 Down|{2 Down}|1|0|Send|||||
+650|[Pause]||1|93|Sleep|||||
+651|2 Up|{2 Up}|1|0|Send|||||
+652|[Pause]||1|750|Sleep|||||
+653|2 Down|{2 Down}|1|0|Send|||||
+654|[Pause]||1|79|Sleep|||||
+655|2 Up|{2 Up}|1|0|Send|||||
+656|[Pause]||1|296|Sleep|||||
+657|Down Down|{Down Down}|1|0|Send|||||
+658|[Pause]||1|79|Sleep|||||
+659|Down Up|{Down Up}|1|0|Send|||||
+660|[Pause]||1|250|Sleep|||||
+661|Left Down|{Left Down}|1|0|Send|||||
+662|[Pause]||1|62|Sleep|||||
+663|Left Up|{Left Up}|1|0|Send|||||
+664|[Pause]||1|219|Sleep|||||
+665|Down Down|{Down Down}|1|0|Send|||||
+666|[Pause]||1|47|Sleep|||||
+667|Down Up|{Down Up}|1|0|Send|||||
+668|[Pause]||1|390|Sleep|||||
+669|Left Down|{Left Down}|1|0|Send|||||
+670|[Pause]||1|63|Sleep|||||
+671|Left Up|{Left Up}|1|0|Send|||||
+672|[Pause]||1|562|Sleep|||||
+673|Escape Down|{Escape Down}|1|0|Send|||||
+674|[Pause]||1|78|Sleep|||||
+675|Escape Up|{Escape Up}|1|0|Send|||||
+676|[Pause]||1|688|Sleep|||||
+677|Escape Down|{Escape Down}|1|0|Send|||||
+678|[Pause]||1|78|Sleep|||||
+679|Escape Up|{Escape Up}|1|0|Send|||||
+680|[Pause]||1|1234|Sleep|||||
+681|Escape Down|{Escape Down}|1|0|Send|||||
+682|[Pause]||1|79|Sleep|||||
+683|Escape Up|{Escape Up}|1|0|Send|||||
+684|[Pause]||1|1312|Sleep|||||
+685|Right Down|{Right Down}|1|0|Send|||||
+686|[Pause]||1|47|Sleep|||||
+687|Right Up|{Right Up}|1|0|Send|||||
+688|[Pause]||1|344|Sleep|||||
+689|2 Down|{2 Down}|1|0|Send|||||
+690|[Pause]||1|62|Sleep|||||
+691|2 Up|{2 Up}|1|0|Send|||||
+692|[Pause]||1|531|Sleep|||||
+693|Down Down|{Down Down}|1|0|Send|||||
+694|[Pause]||1|47|Sleep|||||
+695|Down Up|{Down Up}|1|0|Send|||||
+696|[Pause]||1|547|Sleep|||||
+697|2 Down|{2 Down}|1|0|Send|||||
+698|[Pause]||1|78|Sleep|||||
+699|2 Up|{2 Up}|1|0|Send|||||
+700|[Pause]||1|30000|Sleep|||||
+701|Escape Down|{Escape Down}|1|0|Send|||||
+702|[Pause]||1|62|Sleep|||||
+703|Escape Up|{Escape Up}|1|0|Send|||||
+704|[Pause]||1|672|Sleep|||||
+705|Enter Down|{Enter Down}|1|0|Send|||||
+706|[Pause]||1|110|Sleep|||||
+707|Enter Up|{Enter Up}|1|0|Send|||||
+708|[Pause]||1|593|Sleep|||||
+709|Up Down|{Up Down}|1|0|Send|||||
+710|[Pause]||1|79|Sleep|||||
+711|Up Up|{Up Up}|1|0|Send|||||
+712|[Pause]||1|468|Sleep|||||
+713|Right Down|{Right Down}|1|0|Send|||||
+714|[Pause]||1|78|Sleep|||||
+715|Right Up|{Right Up}|1|0|Send|||||
+716|[Pause]||1|188|Sleep|||||
+717|Right Down|{Right Down}|1|0|Send|||||
+718|[Pause]||1|94|Sleep|||||
+719|Right Up|{Right Up}|1|0|Send|||||
+720|[Pause]||1|218|Sleep|||||
+721|2 Down|{2 Down}|1|0|Send|||||
+722|[Pause]||1|94|Sleep|||||
+723|2 Up|{2 Up}|1|0|Send|||||
+724|[Pause]||1|797|Sleep|||||
+725|Down Down|{Down Down}|1|0|Send|||||
+726|[Pause]||1|94|Sleep|||||
+727|Down Up|{Down Up}|1|0|Send|||||
+728|[Pause]||1|297|Sleep|||||
+729|2 Down|{2 Down}|1|0|Send|||||
+730|[Pause]||1|62|Sleep|||||
+731|2 Up|{2 Up}|1|0|Send|||||
+732|[Pause]||1|8000|Sleep|||||
+733|2 Down|{2 Down}|1|0|Send|||||
+734|[Pause]||1|78|Sleep|||||
+735|2 Up|{2 Up}|1|0|Send|||||
+736|[Pause]||1|12000|Sleep|||pause time after 2nd game to exit||
+737|Escape Down|{Escape Down}|1|0|Send|||||
+738|[Pause]||1|78|Sleep|||||
+739|Escape Up|{Escape Up}|1|0|Send|||||
+740|[Pause]||1|859|Sleep|||||
+741|Right Down|{Right Down}|1|0|Send|||||
+742|[Pause]||1|63|Sleep|||||
+743|Right Up|{Right Up}|1|0|Send|||||
+744|[Pause]||1|156|Sleep|||||
+745|Right Down|{Right Down}|1|0|Send|||||
+746|[Pause]||1|63|Sleep|||||
+747|Right Up|{Right Up}|1|0|Send|||||
+748|[Pause]||1|140|Sleep|||||
+749|Right Down|{Right Down}|1|0|Send|||||
+750|[Pause]||1|78|Sleep|||||
+751|Right Up|{Right Up}|1|0|Send|||||
+752|[Pause]||1|141|Sleep|||||
+753|Right Down|{Right Down}|1|0|Send|||||
+754|[Pause]||1|63|Sleep|||||
+755|Right Up|{Right Up}|1|0|Send|||||
+756|[Pause]||1|140|Sleep|||||
+757|Right Down|{Right Down}|1|0|Send|||||
+758|[Pause]||1|78|Sleep|||||
+759|Right Up|{Right Up}|1|0|Send|||||
+760|[Pause]||1|141|Sleep|||||
+761|Right Down|{Right Down}|1|0|Send|||||
+762|[Pause]||1|78|Sleep|||||
+763|Right Up|{Right Up}|1|0|Send|||||
+764|[Pause]||1|156|Sleep|||||
+765|Right Down|{Right Down}|1|0|Send|||||
+766|[Pause]||1|78|Sleep|||||
+767|Right Up|{Right Up}|1|0|Send|||||
+768|[Pause]||1|360|Sleep|||||
+769|Right Down|{Right Down}|1|0|Send|||||
+770|[Pause]||1|94|Sleep|||||
+771|Right Up|{Right Up}|1|0|Send|||||
+772|[Pause]||1|328|Sleep|||||
+773|Right Down|{Right Down}|1|0|Send|||||
+774|[Pause]||1|78|Sleep|||||
+775|Right Up|{Right Up}|1|0|Send|||||
+776|[Pause]||1|359|Sleep|||||
+777|Right Down|{Right Down}|1|0|Send|||||
+778|[Pause]||1|125|Sleep|||||
+779|Right Up|{Right Up}|1|0|Send|||||
+780|[Pause]||1|703|Sleep|||||
+781|2 Down|{2 Down}|1|0|Send|||||
+782|[Pause]||1|94|Sleep|||||
+783|2 Up|{2 Up}|1|0|Send|||||
+784|[Pause]||1|1156|Sleep|||||
+785|2 Down|{2 Down}|1|0|Send|||||
+786|[Pause]||1|78|Sleep|||||
+787|2 Up|{2 Up}|1|0|Send|||||
+788|[Pause]||1|829|Sleep|||||
+789|Down Down|{Down Down}|1|0|Send|||||
+790|[Pause]||1|78|Sleep|||||
+791|Down Up|{Down Up}|1|0|Send|||||
+792|[Pause]||1|265|Sleep|||||
+793|Left Down|{Left Down}|1|0|Send|||||
+794|[Pause]||1|32|Sleep|||||
+795|Left Up|{Left Up}|1|0|Send|||||
+796|[Pause]||1|328|Sleep|||||
+797|Down Down|{Down Down}|1|0|Send|||||
+798|[Pause]||1|62|Sleep|||||
+799|Down Up|{Down Up}|1|0|Send|||||
+800|[Pause]||1|500|Sleep|||||
+801|Left Down|{Left Down}|1|0|Send|||||
+802|[Pause]||1|47|Sleep|||||
+803|Left Up|{Left Up}|1|0|Send|||||
+804|[Pause]||1|1875|Sleep|||||
+805|Escape Down|{Escape Down}|1|0|Send|||||
+806|[Pause]||1|63|Sleep|||||
+807|Escape Up|{Escape Up}|1|0|Send|||||
+808|[Pause]||1|812|Sleep|||||
+809|Escape Down|{Escape Down}|1|0|Send|||||
+810|[Pause]||1|63|Sleep|||||
+811|Escape Up|{Escape Up}|1|0|Send|||||
+812|[Pause]||1|609|Sleep|||||
+813|Escape Down|{Escape Down}|1|0|Send|||||
+814|[Pause]||1|78|Sleep|||||
+815|Escape Up|{Escape Up}|1|0|Send|||||
+816|[Pause]||1|1563|Sleep|||||
+817|Left Down|{Left Down}|1|0|Send|||||
+818|[Pause]||1|31|Sleep|||||
+819|Left Up|{Left Up}|1|0|Send|||||
+820|[Pause]||1|219|Sleep|||||
+821|Left Down|{Left Down}|1|0|Send|||||
+822|[Pause]||1|62|Sleep|||||
+823|Left Up|{Left Up}|1|0|Send|||||
+824|[Pause]||1|141|Sleep|||||
+825|Left Down|{Left Down}|1|0|Send|||||
+826|[Pause]||1|62|Sleep|||||
+827|Left Up|{Left Up}|1|0|Send|||||
+828|[Pause]||1|156|Sleep|||||
+829|Left Down|{Left Down}|1|0|Send|||||
+830|[Pause]||1|79|Sleep|||||
+831|Left Up|{Left Up}|1|0|Send|||||
+832|[Pause]||1|156|Sleep|||||
+833|Left Down|{Left Down}|1|0|Send|||||
+834|[Pause]||1|47|Sleep|||||
+835|Left Up|{Left Up}|1|0|Send|||||
+836|[Pause]||1|218|Sleep|||||
+837|Down Down|{Down Down}|1|0|Send|||||
+838|[Pause]||1|79|Sleep|||||
+839|Down Up|{Down Up}|1|0|Send|||||
+840|[Pause]||1|203|Sleep|||||
+841|Left Down|{Left Down}|1|0|Send|||||
+842|[Pause]||1|78|Sleep|||||
+843|Left Up|{Left Up}|1|0|Send|||||
+844|[Pause]||1|109|Sleep|||||
+845|Left Down|{Left Down}|1|0|Send|||||
+846|[Pause]||1|63|Sleep|||||
+847|Left Up|{Left Up}|1|0|Send|||||
+848|[Pause]||1|156|Sleep|||||
+849|Left Down|{Left Down}|1|0|Send|||||
+850|[Pause]||1|78|Sleep|||||
+851|Left Up|{Left Up}|1|0|Send|||||
+852|[Pause]||1|125|Sleep|||||
+853|Left Down|{Left Down}|1|0|Send|||||
+854|[Pause]||1|78|Sleep|||||
+855|Left Up|{Left Up}|1|0|Send|||||
+856|[Pause]||1|125|Sleep|||||
+857|Left Down|{Left Down}|1|0|Send|||||
+858|[Pause]||1|78|Sleep|||||
+859|Left Up|{Left Up}|1|0|Send|||||
+860|[Pause]||1|438|Sleep|||||
+861|Down Down|{Down Down}|1|0|Send|||||
+862|[Pause]||1|94|Sleep|||||
+863|Down Up|{Down Up}|1|0|Send|||||
+864|[Pause]||1|187|Sleep|||||
+865|Left Down|{Left Down}|1|0|Send|||||
+866|[Pause]||1|78|Sleep|||||
+867|Left Up|{Left Up}|1|0|Send|||||
+868|[Pause]||1|469|Sleep|||||
+869|2 Down|{2 Down}|1|0|Send|||||
+870|[Pause]||1|78|Sleep|||||
+871|2 Up|{2 Up}|1|0|Send|||||
+872|[Pause]||1|844|Sleep|||||
+873|Down Down|{Down Down}|1|0|Send|||||
+874|[Pause]||1|94|Sleep|||||
+875|Down Up|{Down Up}|1|0|Send|||||
+876|[Pause]||1|2187|Sleep|||||
+877|2 Down|{2 Down}|1|0|Send|||||
+878|[Pause]||1|63|Sleep|||||
+879|2 Up|{2 Up}|1|0|Send|||||
+880|[Pause]||1|30000|Sleep|||||
+881|Enter Down|{Enter Down}|1|0|Send|||||
+882|[Pause]||1|110|Sleep|||||
+883|Enter Up|{Enter Up}|1|0|Send|||||
+884|[Pause]||1|750|Sleep|||||
+885|Up Down|{Up Down}|1|0|Send|||||
+886|[Pause]||1|78|Sleep|||||
+887|Up Up|{Up Up}|1|0|Send|||||
+888|[Pause]||1|265|Sleep|||||
+889|Right Down|{Right Down}|1|0|Send|||||
+890|[Pause]||1|94|Sleep|||||
+891|Right Up|{Right Up}|1|0|Send|||||
+892|[Pause]||1|156|Sleep|||||
+893|Right Down|{Right Down}|1|0|Send|||||
+894|[Pause]||1|79|Sleep|||||
+895|Right Up|{Right Up}|1|0|Send|||||
+896|[Pause]||1|843|Sleep|||||
+897|2 Down|{2 Down}|1|0|Send|||||
+898|[Pause]||1|78|Sleep|||||
+899|2 Up|{2 Up}|1|0|Send|||||
+900|[Pause]||1|532|Sleep|||||
+901|Down Down|{Down Down}|1|0|Send|||||
+902|[Pause]||1|78|Sleep|||||
+903|Down Up|{Down Up}|1|0|Send|||||
+904|[Pause]||1|1156|Sleep|||||
+905|2 Down|{2 Down}|1|0|Send|||||
+906|[Pause]||1|78|Sleep|||||
+907|2 Up|{2 Up}|1|0|Send|||||
+908|[Pause]||1|8000|Sleep|||||
+909|2 Down|{2 Down}|1|0|Send|||||
+910|[Pause]||1|94|Sleep|||||
+911|2 Up|{2 Up}|1|0|Send|||||
+912|[Pause]||1|12000|Sleep|||pause time after 3rd game to exit ||
+913|Escape Down|{Escape Down}|1|0|Send|||||
+914|[Pause]||1|78|Sleep|||||
+915|Escape Up|{Escape Up}|1|0|Send|||||
+916|[Pause]||1|375|Sleep|||||
+917|Right Down|{Right Down}|1|0|Send|||||
+918|[Pause]||1|63|Sleep|||||
+919|Right Up|{Right Up}|1|0|Send|||||
+920|[Pause]||1|156|Sleep|||||
+921|Right Down|{Right Down}|1|0|Send|||||
+922|[Pause]||1|63|Sleep|||||
+923|Right Up|{Right Up}|1|0|Send|||||
+924|[Pause]||1|125|Sleep|||||
+925|Right Down|{Right Down}|1|0|Send|||||
+926|[Pause]||1|62|Sleep|||||
+927|Right Up|{Right Up}|1|0|Send|||||
+928|[Pause]||1|141|Sleep|||||
+929|Right Down|{Right Down}|1|0|Send|||||
+930|[Pause]||1|47|Sleep|||||
+931|Right Up|{Right Up}|1|0|Send|||||
+932|[Pause]||1|125|Sleep|||||
+933|Right Down|{Right Down}|1|0|Send|||||
+934|[Pause]||1|46|Sleep|||||
+935|Right Up|{Right Up}|1|0|Send|||||
+936|[Pause]||1|125|Sleep|||||
+937|Right Down|{Right Down}|1|0|Send|||||
+938|[Pause]||1|47|Sleep|||||
+939|Right Up|{Right Up}|1|0|Send|||||
+940|[Pause]||1|141|Sleep|||||
+941|Right Down|{Right Down}|1|0|Send|||||
+942|[Pause]||1|62|Sleep|||||
+943|Right Up|{Right Up}|1|0|Send|||||
+944|[Pause]||1|125|Sleep|||||
+945|Right Down|{Right Down}|1|0|Send|||||
+946|[Pause]||1|63|Sleep|||||
+947|Right Up|{Right Up}|1|0|Send|||||
+948|[Pause]||1|297|Sleep|||||
+949|Right Down|{Right Down}|1|0|Send|||||
+950|[Pause]||1|62|Sleep|||||
+951|Right Up|{Right Up}|1|0|Send|||||
+952|[Pause]||1|360|Sleep|||||
+953|Right Down|{Right Down}|1|0|Send|||||
+954|[Pause]||1|78|Sleep|||||
+955|Right Up|{Right Up}|1|0|Send|||||
+956|[Pause]||1|453|Sleep|||||
+957|2 Down|{2 Down}|1|0|Send|||||
+958|[Pause]||1|109|Sleep|||||
+959|2 Up|{2 Up}|1|0|Send|||||
+960|[Pause]||1|953|Sleep|||||
+961|2 Down|{2 Down}|1|0|Send|||||
+962|[Pause]||1|94|Sleep|||||
+963|2 Up|{2 Up}|1|0|Send|||||
+964|[Pause]||1|313|Sleep|||||
+965|Down Down|{Down Down}|1|0|Send|||||
+966|[Pause]||1|93|Sleep|||||
+967|Down Up|{Down Up}|1|0|Send|||||
+968|[Pause]||1|172|Sleep|||||
+969|Left Down|{Left Down}|1|0|Send|||||
+970|[Pause]||1|47|Sleep|||||
+971|Left Up|{Left Up}|1|0|Send|||||
+972|[Pause]||1|235|Sleep|||||
+973|Down Down|{Down Down}|1|0|Send|||||
+974|[Pause]||1|46|Sleep|||||
+975|Down Up|{Down Up}|1|0|Send|||||
+976|[Pause]||1|516|Sleep|||||
+977|Left Down|{Left Down}|1|0|Send|||||
+978|[Pause]||1|63|Sleep|||||
+979|Left Up|{Left Up}|1|0|Send|||||
+980|[Pause]||1|328|Sleep|||||
+981|Escape Down|{Escape Down}|1|0|Send|||||
+982|[Pause]||1|78|Sleep|||||
+983|Escape Up|{Escape Up}|1|0|Send|||||
+984|[Pause]||1|594|Sleep|||||
+985|Escape Down|{Escape Down}|1|0|Send|||||
+986|[Pause]||1|78|Sleep|||||
+987|Escape Up|{Escape Up}|1|0|Send|||||
+988|[Pause]||1|687|Sleep|||||
+989|Escape Down|{Escape Down}|1|0|Send|||||
+990|[Pause]||1|63|Sleep|||||
+991|Escape Up|{Escape Up}|1|0|Send|||||
+992|[Pause]||1|1047|Sleep|||||
+993|Right Down|{Right Down}|1|0|Send|||||
+994|[Pause]||1|109|Sleep|||||
+995|Right Up|{Right Up}|1|0|Send|||||
+996|[Pause]||1|219|Sleep|||||
+997|Right Down|{Right Down}|1|0|Send|||||
+998|[Pause]||1|93|Sleep|||||
+999|Right Up|{Right Up}|1|0|Send|||||
+1000|[Pause]||1|297|Sleep|||||
+1001|2 Down|{2 Down}|1|0|Send|||||
+1002|[Pause]||1|78|Sleep|||||
+1003|2 Up|{2 Up}|1|0|Send|||||
+1004|[Pause]||1|485|Sleep|||||
+1005|Down Down|{Down Down}|1|0|Send|||||
+1006|[Pause]||1|94|Sleep|||||
+1007|Down Up|{Down Up}|1|0|Send|||||
+1008|[Pause]||1|718|Sleep|||||
+1009|2 Down|{2 Down}|1|0|Send|||||
+1010|[Pause]||1|78|Sleep|||||
+1011|2 Up|{2 Up}|1|0|Send|||||
+1012|[Pause]||1|30000|Sleep|||4th game waiting to score||
+1013|Enter Down|{Enter Down}|1|0|Send|||||
+1014|[Pause]||1|78|Sleep|||||
+1015|Enter Up|{Enter Up}|1|0|Send|||||
+1016|[Pause]||1|766|Sleep|||||
+1017|Up Down|{Up Down}|1|0|Send|||||
+1018|[Pause]||1|62|Sleep|||||
+1019|Up Up|{Up Up}|1|0|Send|||||
+1020|[Pause]||1|375|Sleep|||||
+1021|Right Down|{Right Down}|1|0|Send|||||
+1022|[Pause]||1|94|Sleep|||||
+1023|Right Up|{Right Up}|1|0|Send|||||
+1024|[Pause]||1|141|Sleep|||||
+1025|Right Down|{Right Down}|1|0|Send|||||
+1026|[Pause]||1|125|Sleep|||||
+1027|Right Up|{Right Up}|1|0|Send|||||
+1028|[Pause]||1|672|Sleep|||||
+1029|2 Down|{2 Down}|1|0|Send|||||
+1030|[Pause]||1|78|Sleep|||||
+1031|2 Up|{2 Up}|1|0|Send|||||
+1032|[Pause]||1|656|Sleep|||||
+1033|Down Down|{Down Down}|1|0|Send|||||
+1034|[Pause]||1|109|Sleep|||||
+1035|Down Up|{Down Up}|1|0|Send|||||
+1036|[Pause]||1|344|Sleep|||||
+1037|2 Down|{2 Down}|1|0|Send|||||
+1038|[Pause]||1|78|Sleep|||||
+1039|2 Up|{2 Up}|1|0|Send|||||
+1040|[Pause]||1|8000|Sleep|||||
+1041|2 Down|{2 Down}|1|0|Send|||||
+1042|[Pause]||1|78|Sleep|||||
+1043|2 Up|{2 Up}|1|0|Send|||||
+1044|[Pause]||1|12000|Sleep|||pause time after 4th game to exit||
+1045|Escape Down|{Escape Down}|1|0|Send|||||
+1046|[Pause]||1|46|Sleep|||||
+1047|Escape Up|{Escape Up}|1|0|Send|||||
+1048|[Pause]||1|375|Sleep|||||
+1049|Right Down|{Right Down}|1|0|Send|||||
+1050|[Pause]||1|63|Sleep|||||
+1051|Right Up|{Right Up}|1|0|Send|||||
+1052|[Pause]||1|141|Sleep|||||
+1053|Right Down|{Right Down}|1|0|Send|||||
+1054|[Pause]||1|46|Sleep|||||
+1055|Right Up|{Right Up}|1|0|Send|||||
+1056|[Pause]||1|157|Sleep|||||
+1057|Right Down|{Right Down}|1|0|Send|||||
+1058|[Pause]||1|47|Sleep|||||
+1059|Right Up|{Right Up}|1|0|Send|||||
+1060|[Pause]||1|171|Sleep|||||
+1061|Right Down|{Right Down}|1|0|Send|||||
+1062|[Pause]||1|63|Sleep|||||
+1063|Right Up|{Right Up}|1|0|Send|||||
+1064|[Pause]||1|141|Sleep|||||
+1065|Right Down|{Right Down}|1|0|Send|||||
+1066|[Pause]||1|46|Sleep|||||
+1067|Right Up|{Right Up}|1|0|Send|||||
+1068|[Pause]||1|157|Sleep|||||
+1069|Right Down|{Right Down}|1|0|Send|||||
+1070|[Pause]||1|62|Sleep|||||
+1071|Right Up|{Right Up}|1|0|Send|||||
+1072|[Pause]||1|188|Sleep|||||
+1073|Right Down|{Right Down}|1|0|Send|||||
+1074|[Pause]||1|47|Sleep|||||
+1075|Right Up|{Right Up}|1|0|Send|||||
+1076|[Pause]||1|187|Sleep|||||
+1077|Right Down|{Right Down}|1|0|Send|||||
+1078|[Pause]||1|63|Sleep|||||
+1079|Right Up|{Right Up}|1|0|Send|||||
+1080|[Pause]||1|421|Sleep|||||
+1081|Right Down|{Right Down}|1|0|Send|||||
+1082|[Pause]||1|63|Sleep|||||
+1083|Right Up|{Right Up}|1|0|Send|||||
+1084|[Pause]||1|234|Sleep|||||
+1085|Right Down|{Right Down}|1|0|Send|||||
+1086|[Pause]||1|78|Sleep|||||
+1087|Right Up|{Right Up}|1|0|Send|||||
+1088|[Pause]||1|579|Sleep|||||
+1089|2 Down|{2 Down}|1|0|Send|||||
+1090|[Pause]||1|93|Sleep|||||
+1091|2 Up|{2 Up}|1|0|Send|||||
+1092|[Pause]||1|313|Sleep|||||
+1093|2 Down|{2 Down}|1|0|Send|||||
+1094|[Pause]||1|94|Sleep|||||
+1095|2 Up|{2 Up}|1|0|Send|||||
+1096|[Pause]||1|296|Sleep|||||
+1097|Down Down|{Down Down}|1|0|Send|||||
+1098|[Pause]||1|47|Sleep|||||
+1099|Down Up|{Down Up}|1|0|Send|||||
+1100|[Pause]||1|282|Sleep|||||
+1101|Left Down|{Left Down}|1|0|Send|||||
+1102|[Pause]||1|46|Sleep|||||
+1103|Left Up|{Left Up}|1|0|Send|||||
+1104|[Pause]||1|282|Sleep|||||
+1105|Down Down|{Down Down}|1|0|Send|||||
+1106|[Pause]||1|62|Sleep|||||
+1107|Down Up|{Down Up}|1|0|Send|||||
+1108|[Pause]||1|297|Sleep|||||
+1109|Left Down|{Left Down}|1|0|Send|||||
+1110|[Pause]||1|47|Sleep|||||
+1111|Left Up|{Left Up}|1|0|Send|||||
+1112|[Pause]||1|469|Sleep|||||
+1113|Escape Down|{Escape Down}|1|0|Send|||||
+1114|[Pause]||1|78|Sleep|||||
+1115|Escape Up|{Escape Up}|1|0|Send|||||
+1116|[Pause]||1|312|Sleep|||||
+1117|Escape Down|{Escape Down}|1|0|Send|||||
+1118|[Pause]||1|78|Sleep|||||
+1119|Escape Up|{Escape Up}|1|0|Send|||||
+1120|[Pause]||1|391|Sleep|||||
+1121|Escape Down|{Escape Down}|1|0|Send|||||
+1122|[Pause]||1|94|Sleep|||||
+1123|Escape Up|{Escape Up}|1|0|Send|||||
+1124|[Pause]||1|1078|Sleep|||||
+1125|Right Down|{Right Down}|1|0|Send|||||
+1126|[Pause]||1|78|Sleep|||||
+1127|Right Up|{Right Up}|1|0|Send|||||
+1128|[Pause]||1|266|Sleep|||||
+1129|Right Down|{Right Down}|1|0|Send|||||
+1130|[Pause]||1|93|Sleep|||||
+1131|Right Up|{Right Up}|1|0|Send|||||
+1132|[Pause]||1|2094|Sleep|||||
+1133|2 Down|{2 Down}|1|0|Send|||||
+1134|[Pause]||1|78|Sleep|||||
+1135|2 Up|{2 Up}|1|0|Send|||||
+1136|[Pause]||1|797|Sleep|||||
+1137|Down Down|{Down Down}|1|0|Send|||||
+1138|[Pause]||1|78|Sleep|||||
+1139|Down Up|{Down Up}|1|0|Send|||||
+1140|[Pause]||1|703|Sleep|||||
+1141|2 Down|{2 Down}|1|0|Send|||||
+1142|[Pause]||1|63|Sleep|||||
+1143|2 Up|{2 Up}|1|0|Send|||||
+1144|[Pause]||1|41266|Sleep|||||
+1145|Enter Down|{Enter Down}|1|0|Send|||||
+1146|[Pause]||1|125|Sleep|||||
+1147|Enter Up|{Enter Up}|1|0|Send|||||
+1148|[Pause]||1|734|Sleep|||||
+1149|Up Down|{Up Down}|1|0|Send|||||
+1150|[Pause]||1|94|Sleep|||||
+1151|Up Up|{Up Up}|1|0|Send|||||
+1152|[Pause]||1|687|Sleep|||||
+1153|Right Down|{Right Down}|1|0|Send|||||
+1154|[Pause]||1|78|Sleep|||||
+1155|Right Up|{Right Up}|1|0|Send|||||
+1156|[Pause]||1|282|Sleep|||||
+1157|Right Down|{Right Down}|1|0|Send|||||
+1158|[Pause]||1|62|Sleep|||||
+1159|Right Up|{Right Up}|1|0|Send|||||
+1160|[Pause]||1|516|Sleep|||||
+1161|2 Down|{2 Down}|1|0|Send|||||
+1162|[Pause]||1|62|Sleep|||||
+1163|2 Up|{2 Up}|1|0|Send|||||
+1164|[Pause]||1|625|Sleep|||||
+1165|Down Down|{Down Down}|1|0|Send|||||
+1166|[Pause]||1|110|Sleep|||||
+1167|Down Up|{Down Up}|1|0|Send|||||
+1168|[Pause]||1|218|Sleep|||||
+1169|2 Down|{2 Down}|1|0|Send|||||
+1170|[Pause]||1|110|Sleep|||||
+1171|2 Up|{2 Up}|1|0|Send|||||
+1172|[Pause]||1|5187|Sleep|||||
+1173|2 Down|{2 Down}|1|0|Send|||||
+1174|[Pause]||1|94|Sleep|||||
+1175|2 Up|{2 Up}|1|0|Send|||||
+1176|[Pause]||1|5109|Sleep|||||
+1177|Escape Down|{Escape Down}|1|0|Send|||||
+1178|[Pause]||1|78|Sleep|||||
+1179|Escape Up|{Escape Up}|1|0|Send|||||
+1180|[Pause]||1|329|Sleep|||||
+1181|Right Down|{Right Down}|1|0|Send|||||
+1182|[Pause]||1|93|Sleep|||||
+1183|Right Up|{Right Up}|1|0|Send|||||
+1184|[Pause]||1|157|Sleep|||||
+1185|Right Down|{Right Down}|1|0|Send|||||
+1186|[Pause]||1|78|Sleep|||||
+1187|Right Up|{Right Up}|1|0|Send|||||
+1188|[Pause]||1|125|Sleep|||||
+1189|Right Down|{Right Down}|1|0|Send|||||
+1190|[Pause]||1|62|Sleep|||||
+1191|Right Up|{Right Up}|1|0|Send|||||
+1192|[Pause]||1|156|Sleep|||||
+1193|Right Down|{Right Down}|1|0|Send|||||
+1194|[Pause]||1|79|Sleep|||||
+1195|Right Up|{Right Up}|1|0|Send|||||
+1196|[Pause]||1|140|Sleep|||||
+1197|Right Down|{Right Down}|1|0|Send|||||
+1198|[Pause]||1|63|Sleep|||||
+1199|Right Up|{Right Up}|1|0|Send|||||
+1200|[Pause]||1|140|Sleep|||||
+1201|Right Down|{Right Down}|1|0|Send|||||
+1202|[Pause]||1|78|Sleep|||||
+1203|Right Up|{Right Up}|1|0|Send|||||
+1204|[Pause]||1|141|Sleep|||||
+1205|Right Down|{Right Down}|1|0|Send|||||
+1206|[Pause]||1|78|Sleep|||||
+1207|Right Up|{Right Up}|1|0|Send|||||
+1208|[Pause]||1|156|Sleep|||||
+1209|Right Down|{Right Down}|1|0|Send|||||
+1210|[Pause]||1|79|Sleep|||||
+1211|Right Up|{Right Up}|1|0|Send|||||
+1212|[Pause]||1|390|Sleep|||||
+1213|Right Down|{Right Down}|1|0|Send|||||
+1214|[Pause]||1|94|Sleep|||||
+1215|Right Up|{Right Up}|1|0|Send|||||
+1216|[Pause]||1|328|Sleep|||||
+1217|Right Down|{Right Down}|1|0|Send|||||
+1218|[Pause]||1|94|Sleep|||||
+1219|Right Up|{Right Up}|1|0|Send|||||
+1220|[Pause]||1|469|Sleep|||||
+1221|2 Down|{2 Down}|1|0|Send|||||
+1222|[Pause]||1|109|Sleep|||||
+1223|2 Up|{2 Up}|1|0|Send|||||
+1224|[Pause]||1|391|Sleep|||||
+1225|2 Down|{2 Down}|1|0|Send|||||
+1226|[Pause]||1|78|Sleep|||||
+1227|2 Up|{2 Up}|1|0|Send|||||
+1228|[Pause]||1|468|Sleep|||||
+1229|Down Down|{Down Down}|1|0|Send|||||
+1230|[Pause]||1|79|Sleep|||||
+1231|Down Up|{Down Up}|1|0|Send|||||
+1232|[Pause]||1|328|Sleep|||||
+1233|Left Down|{Left Down}|1|0|Send|||||
+1234|[Pause]||1|31|Sleep|||||
+1235|Left Up|{Left Up}|1|0|Send|||||
+1236|[Pause]||1|234|Sleep|||||
+1237|Down Down|{Down Down}|1|0|Send|||||
+1238|[Pause]||1|63|Sleep|||||
+1239|Down Up|{Down Up}|1|0|Send|||||
+1240|[Pause]||1|547|Sleep|||||
+1241|Left Down|{Left Down}|1|0|Send|||||
+1242|[Pause]||1|62|Sleep|||||
+1243|Left Up|{Left Up}|1|0|Send|||||
+1244|[Pause]||1|375|Sleep|||||
+1245|Escape Down|{Escape Down}|1|0|Send|||||
+1246|[Pause]||1|125|Sleep|||||
+1247|Escape Up|{Escape Up}|1|0|Send|||||
+1248|[Pause]||1|813|Sleep|||||
+1249|Escape Down|{Escape Down}|1|0|Send|||||
+1250|[Pause]||1|93|Sleep|||||
+1251|Escape Up|{Escape Up}|1|0|Send|||||
+1252|[Pause]||1|610|Sleep|||||
+1253|Escape Down|{Escape Down}|1|0|Send|||||
+1254|[Pause]||1|62|Sleep|||||
+1255|Escape Up|{Escape Up}|1|0|Send|||||
+1256|[Pause]||1|985|Sleep|||||
+1257|Left Down|{Left Down}|1|0|Send|||||
+1258|[Pause]||1|78|Sleep|||||
+1259|Left Up|{Left Up}|1|0|Send|||||
+1260|[Pause]||1|156|Sleep|||||
+1261|Left Down|{Left Down}|1|0|Send|||||
+1262|[Pause]||1|63|Sleep|||||
+1263|Left Up|{Left Up}|1|0|Send|||||
+1264|[Pause]||1|125|Sleep|||||
+1265|Left Down|{Left Down}|1|0|Send|||||
+1266|[Pause]||1|62|Sleep|||||
+1267|Left Up|{Left Up}|1|0|Send|||||
+1268|[Pause]||1|125|Sleep|||||
+1269|Left Down|{Left Down}|1|0|Send|||||
+1270|[Pause]||1|78|Sleep|||||
+1271|Left Up|{Left Up}|1|0|Send|||||
+1272|[Pause]||1|141|Sleep|||||
+1273|Left Down|{Left Down}|1|0|Send|||||
+1274|[Pause]||1|78|Sleep|||||
+1275|Left Up|{Left Up}|1|0|Send|||||
+1276|[Pause]||1|109|Sleep|||||
+1277|Down Down|{Down Down}|1|0|Send|||||
+1278|[Pause]||1|78|Sleep|||||
+1279|Down Up|{Down Up}|1|0|Send|||||
+1280|[Pause]||1|266|Sleep|||||
+1281|2 Down|{2 Down}|1|0|Send|||||
+1282|[Pause]||1|94|Sleep|||||
+1283|2 Up|{2 Up}|1|0|Send|||||
+1284|[Pause]||1|453|Sleep|||||
+1285|Down Down|{Down Down}|1|0|Send|||||
+1286|[Pause]||1|94|Sleep|||||
+1287|Down Up|{Down Up}|1|0|Send|||||
+1288|[Pause]||1|531|Sleep|||||
+1289|2 Down|{2 Down}|1|0|Send|||||
+1290|[Pause]||1|78|Sleep|||||
+1291|2 Up|{2 Up}|1|0|Send|||||
+1292|[Pause]||1|35938|Sleep|||5th game pausing to score||
+1293|Enter Down|{Enter Down}|1|0|Send|||||
+1294|[Pause]||1|93|Sleep|||||
+1295|Enter Up|{Enter Up}|1|0|Send|||||
+1296|[Pause]||1|1282|Sleep|||||
+1297|Up Down|{Up Down}|1|0|Send|||||
+1298|[Pause]||1|46|Sleep|||||
+1299|Up Up|{Up Up}|1|0|Send|||||
+1300|[Pause]||1|672|Sleep|||||
+1301|Right Down|{Right Down}|1|0|Send|||||
+1302|[Pause]||1|94|Sleep|||||
+1303|Right Up|{Right Up}|1|0|Send|||||
+1304|[Pause]||1|109|Sleep|||||
+1305|Right Down|{Right Down}|1|0|Send|||||
+1306|[Pause]||1|94|Sleep|||||
+1307|Right Up|{Right Up}|1|0|Send|||||
+1308|[Pause]||1|797|Sleep|||||
+1309|2 Down|{2 Down}|1|0|Send|||||
+1310|[Pause]||1|94|Sleep|||||
+1311|2 Up|{2 Up}|1|0|Send|||||
+1312|[Pause]||1|1234|Sleep|||||
+1313|Down Down|{Down Down}|1|0|Send|||||
+1314|[Pause]||1|63|Sleep|||||
+1315|Down Up|{Down Up}|1|0|Send|||||
+1316|[Pause]||1|109|Sleep|||||
+1317|2 Down|{2 Down}|1|0|Send|||||
+1318|[Pause]||1|78|Sleep|||||
+1319|2 Up|{2 Up}|1|0|Send|||||
+1320|[Pause]||1|8000|Sleep|||||
+1321|2 Down|{2 Down}|1|0|Send|||||
+1322|[Pause]||1|94|Sleep|||||
+1323|2 Up|{2 Up}|1|0|Send|||||
+1324|[Pause]||1|12000|Sleep|||5th game pause after game quit||
+1325|Escape Down|{Escape Down}|1|0|Send|||||
+1326|[Pause]||1|94|Sleep|||||
+1327|Escape Up|{Escape Up}|1|0|Send|||||
+1328|[Pause]||1|422|Sleep|||||
+1329|Right Down|{Right Down}|1|0|Send|||||
+1330|[Pause]||1|62|Sleep|||||
+1331|Right Up|{Right Up}|1|0|Send|||||
+1332|[Pause]||1|172|Sleep|||||
+1333|Right Down|{Right Down}|1|0|Send|||||
+1334|[Pause]||1|47|Sleep|||||
+1335|Right Up|{Right Up}|1|0|Send|||||
+1336|[Pause]||1|156|Sleep|||||
+1337|Right Down|{Right Down}|1|0|Send|||||
+1338|[Pause]||1|47|Sleep|||||
+1339|Right Up|{Right Up}|1|0|Send|||||
+1340|[Pause]||1|141|Sleep|||||
+1341|Right Down|{Right Down}|1|0|Send|||||
+1342|[Pause]||1|62|Sleep|||||
+1343|Right Up|{Right Up}|1|0|Send|||||
+1344|[Pause]||1|172|Sleep|||||
+1345|Right Down|{Right Down}|1|0|Send|||||
+1346|[Pause]||1|62|Sleep|||||
+1347|Right Up|{Right Up}|1|0|Send|||||
+1348|[Pause]||1|188|Sleep|||||
+1349|Right Down|{Right Down}|1|0|Send|||||
+1350|[Pause]||1|62|Sleep|||||
+1351|Right Up|{Right Up}|1|0|Send|||||
+1352|[Pause]||1|188|Sleep|||||
+1353|Right Down|{Right Down}|1|0|Send|||||
+1354|[Pause]||1|109|Sleep|||||
+1355|Right Up|{Right Up}|1|0|Send|||||
+1356|[Pause]||1|407|Sleep|||||
+1357|Right Down|{Right Down}|1|0|Send|||||
+1358|[Pause]||1|93|Sleep|||||
+1359|Right Up|{Right Up}|1|0|Send|||||
+1360|[Pause]||1|469|Sleep|||||
+1361|Right Down|{Right Down}|1|0|Send|||||
+1362|[Pause]||1|78|Sleep|||||
+1363|Right Up|{Right Up}|1|0|Send|||||
+1364|[Pause]||1|406|Sleep|||||
+1365|Right Down|{Right Down}|1|0|Send|||||
+1366|[Pause]||1|63|Sleep|||||
+1367|Right Up|{Right Up}|1|0|Send|||||
+1368|[Pause]||1|547|Sleep|||||
+1369|2 Down|{2 Down}|1|0|Send|||||
+1370|[Pause]||1|78|Sleep|||||
+1371|2 Up|{2 Up}|1|0|Send|||||
+1372|[Pause]||1|516|Sleep|||||
+1373|2 Down|{2 Down}|1|0|Send|||||
+1374|[Pause]||1|78|Sleep|||||
+1375|2 Up|{2 Up}|1|0|Send|||||
+1376|[Pause]||1|281|Sleep|||||
+1377|Down Down|{Down Down}|1|0|Send|||||
+1378|[Pause]||1|62|Sleep|||||
+1379|Down Up|{Down Up}|1|0|Send|||||
+1380|[Pause]||1|188|Sleep|||||
+1381|Left Down|{Left Down}|1|0|Send|||||
+1382|[Pause]||1|62|Sleep|||||
+1383|Left Up|{Left Up}|1|0|Send|||||
+1384|[Pause]||1|500|Sleep|||||
+1385|Down Down|{Down Down}|1|0|Send|||||
+1386|[Pause]||1|63|Sleep|||||
+1387|Down Up|{Down Up}|1|0|Send|||||
+1388|[Pause]||1|250|Sleep|||||
+1389|Left Down|{Left Down}|1|0|Send|||||
+1390|[Pause]||1|78|Sleep|||||
+1391|Left Up|{Left Up}|1|0|Send|||||
+1392|[Pause]||1|359|Sleep|||||
+1393|Escape Down|{Escape Down}|1|0|Send|||||
+1394|[Pause]||1|79|Sleep|||||
+1395|Escape Up|{Escape Up}|1|0|Send|||||
+1396|[Pause]||1|250|Sleep|||||
+1397|Escape Down|{Escape Down}|1|0|Send|||||
+1398|[Pause]||1|78|Sleep|||||
+1399|Escape Up|{Escape Up}|1|0|Send|||||
+1400|[Pause]||1|203|Sleep|||||
+1401|Escape Down|{Escape Down}|1|0|Send|||||
+1402|[Pause]||1|78|Sleep|||||
+1403|Escape Up|{Escape Up}|1|0|Send|||||
+1404|[Pause]||1|1016|Sleep|||||
+1405|Right Down|{Right Down}|1|0|Send|||||
+1406|[Pause]||1|62|Sleep|||||
+1407|Right Up|{Right Up}|1|0|Send|||||
+1408|[Pause]||1|297|Sleep|||||
+1409|2 Down|{2 Down}|1|0|Send|||||
+1410|[Pause]||1|78|Sleep|||||
+1411|2 Up|{2 Up}|1|0|Send|||||
+1412|[Pause]||1|500|Sleep|||||
+1413|Down Down|{Down Down}|1|0|Send|||||
+1414|[Pause]||1|63|Sleep|||||
+1415|Down Up|{Down Up}|1|0|Send|||||
+1416|[Pause]||1|140|Sleep|||||
+1417|2 Down|{2 Down}|1|0|Send|||||
+1418|[Pause]||1|63|Sleep|||||
+1419|2 Up|{2 Up}|1|0|Send|||||
+1420|[Pause]||1|30188|Sleep|||6th game pause to score||
+1421|Enter Down|{Enter Down}|1|0|Send|||||
+1422|[Pause]||1|78|Sleep|||||
+1423|Enter Up|{Enter Up}|1|0|Send|||||
+1424|[Pause]||1|594|Sleep|||||
+1425|Up Down|{Up Down}|1|0|Send|||||
+1426|[Pause]||1|78|Sleep|||||
+1427|Up Up|{Up Up}|1|0|Send|||||
+1428|[Pause]||1|313|Sleep|||||
+1429|Right Down|{Right Down}|1|0|Send|||||
+1430|[Pause]||1|62|Sleep|||||
+1431|Right Up|{Right Up}|1|0|Send|||||
+1432|[Pause]||1|219|Sleep|||||
+1433|Right Down|{Right Down}|1|0|Send|||||
+1434|[Pause]||1|78|Sleep|||||
+1435|Right Up|{Right Up}|1|0|Send|||||
+1436|[Pause]||1|266|Sleep|||||
+1437|2 Down|{2 Down}|1|0|Send|||||
+1438|[Pause]||1|62|Sleep|||||
+1439|2 Up|{2 Up}|1|0|Send|||||
+1440|[Pause]||1|344|Sleep|||||
+1441|Down Down|{Down Down}|1|0|Send|||||
+1442|[Pause]||1|94|Sleep|||||
+1443|Down Up|{Down Up}|1|0|Send|||||
+1444|[Pause]||1|531|Sleep|||||
+1445|2 Down|{2 Down}|1|0|Send|||||
+1446|[Pause]||1|78|Sleep|||||
+1447|2 Up|{2 Up}|1|0|Send|||||
+1448|[Pause]||1|8000|Sleep|||||
+1449|2 Down|{2 Down}|1|0|Send|||||
+1450|[Pause]||1|63|Sleep|||||
+1451|2 Up|{2 Up}|1|0|Send|||||
+1452|[Pause]||1|12000|Sleep|||6th game pause after game quit||
+1453|Escape Down|{Escape Down}|1|0|Send|||||
+1454|[Pause]||1|94|Sleep|||||
+1455|Escape Up|{Escape Up}|1|0|Send|||||
+1456|[Pause]||1|812|Sleep|||||
+1457|Right Down|{Right Down}|1|0|Send|||||
+1458|[Pause]||1|63|Sleep|||||
+1459|Right Up|{Right Up}|1|0|Send|||||
+1460|[Pause]||1|140|Sleep|||||
+1461|Right Down|{Right Down}|1|0|Send|||||
+1462|[Pause]||1|47|Sleep|||||
+1463|Right Up|{Right Up}|1|0|Send|||||
+1464|[Pause]||1|156|Sleep|||||
+1465|Right Down|{Right Down}|1|0|Send|||||
+1466|[Pause]||1|63|Sleep|||||
+1467|Right Up|{Right Up}|1|0|Send|||||
+1468|[Pause]||1|140|Sleep|||||
+1469|Right Down|{Right Down}|1|0|Send|||||
+1470|[Pause]||1|47|Sleep|||||
+1471|Right Up|{Right Up}|1|0|Send|||||
+1472|[Pause]||1|157|Sleep|||||
+1473|Right Down|{Right Down}|1|0|Send|||||
+1474|[Pause]||1|62|Sleep|||||
+1475|Right Up|{Right Up}|1|0|Send|||||
+1476|[Pause]||1|125|Sleep|||||
+1477|Right Down|{Right Down}|1|0|Send|||||
+1478|[Pause]||1|63|Sleep|||||
+1479|Right Up|{Right Up}|1|0|Send|||||
+1480|[Pause]||1|156|Sleep|||||
+1481|Right Down|{Right Down}|1|0|Send|||||
+1482|[Pause]||1|47|Sleep|||||
+1483|Right Up|{Right Up}|1|0|Send|||||
+1484|[Pause]||1|140|Sleep|||||
+1485|Right Down|{Right Down}|1|0|Send|||||
+1486|[Pause]||1|63|Sleep|||||
+1487|Right Up|{Right Up}|1|0|Send|||||
+1488|[Pause]||1|140|Sleep|||||
+1489|Right Down|{Right Down}|1|0|Send|||||
+1490|[Pause]||1|47|Sleep|||||
+1491|Right Up|{Right Up}|1|0|Send|||||
+1492|[Pause]||1|172|Sleep|||||
+1493|Right Down|{Right Down}|1|0|Send|||||
+1494|[Pause]||1|63|Sleep|||||
+1495|Right Up|{Right Up}|1|0|Send|||||
+1496|[Pause]||1|265|Sleep|||||
+1497|Right Down|{Right Down}|1|0|Send|||||
+1498|[Pause]||1|47|Sleep|||||
+1499|Right Up|{Right Up}|1|0|Send|||||
+1500|[Pause]||1|375|Sleep|||||
+1501|Right Down|{Right Down}|1|0|Send|||||
+1502|[Pause]||1|63|Sleep|||||
+1503|Right Up|{Right Up}|1|0|Send|||||
+1504|[Pause]||1|1078|Sleep|||||
+1505|2 Down|{2 Down}|1|0|Send|||||
+1506|[Pause]||1|94|Sleep|||||
+1507|2 Up|{2 Up}|1|0|Send|||exiting to main menu||
+1508|[Pause]||1|8000|Sleep|||||
+1509|Down Down|{Down Down}|1|0|Send|||||
+1510|[Pause]||1|47|Sleep|||||
+1511|Down Up|{Down Up}|1|0|Send|||||
+1512|[Pause]||1|2000|Sleep|||||
+1513|Down Down|{Down Down}|1|0|Send|||||
+1514|[Pause]||1|94|Sleep|||||
+1515|Down Up|{Down Up}|1|0|Send|||||
+1516|[Pause]||1|2000|Sleep|||||
+1517|Down Down|{Down Down}|1|0|Send|||||
+1518|[Pause]||1|94|Sleep|||||
+1519|Down Up|{Down Up}|1|0|Send|||||
+1520|[Pause]||1|2000|Sleep|||||
+1521|2 Down|{2 Down}|1|0|Send|||enter myleague||
+1522|[Pause]||1|78|Sleep|||||
+1523|2 Up|{2 Up}|1|0|Send|||||
+1524|[Pause]||1|1000|Sleep|||||
+1525|1 Down|{1 Down}|1|0|Send|||delete myleague||
+1526|[Pause]||1|93|Sleep|||||
+1527|1 Up|{1 Up}|1|0|Send|||||
+1528|[Pause]||1|1000|Sleep|||||
+1529|Down Down|{Down Down}|1|0|Send|||||
+1530|[Pause]||1|93|Sleep|||||
+1531|Down Up|{Down Up}|1|0|Send|||||
+1532|[Pause]||1|1000|Sleep|||||
+1533|2 Down|{2 Down}|1|0|Send|||||
+1534|[Pause]||1|63|Sleep|||||
+1535|2 Up|{2 Up}|1|0|Send|||confirm delete||
+1536|[Pause]||1|600000|Sleep|||||
+
